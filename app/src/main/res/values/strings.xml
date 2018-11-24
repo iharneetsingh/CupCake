@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpeakCupcake</string>
+    <string name="heyaa">Heyaa!</string>
+    <string name="speak">Speak</string>
+    <string name="enter_the_text_here" />
+    <string name="speak_dollu" />
+    <string name="techsparkers" />
+    <string name="logo">LOGO</string>
+    <string name="android_hive_workshop_app_1_cupcake">Android Hive workshop App 1, CupCake</string>
+    <string name="please_speak_cupcake">Please speak Cupcake!!!</string>
+</resources>
